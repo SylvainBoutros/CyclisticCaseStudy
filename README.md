@@ -81,4 +81,4 @@ My conclusion is that Cyclistic’s customers used the bike-sharing services dif
 ## Recommendations
 Creating different memberships to attract casual riders based on their need, such as a weekend membership. Additionally, creating a loyalty program for annual members might help in increasing the numbers. Lastly, expanding the network to covert a bigger territory would help grow the services.  
 
-[Cyclistic Case Study Report](Documentation.pdf)
+[Cyclistic Case Study Report PDF](Documentation.pdf)
